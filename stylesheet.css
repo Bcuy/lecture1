@@ -20,3 +20,8 @@ h1 {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+td img {
+  height: 125px;
+  width: 90px
+}
